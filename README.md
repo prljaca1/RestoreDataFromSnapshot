@@ -1,2 +1,3 @@
 # RestoreDataFromSnapshot
-![Alt text]/Screenshot.png?raw=true "Title2")
+
+![Alt text](/Screenshot.png?raw=true "Optional Title")
